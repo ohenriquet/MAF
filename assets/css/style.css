@@ -7,6 +7,15 @@ Licence: Creative Commons Attribution 3.0** - http://creativecommons.org/license
 */
 
 /*General*/
+
+.sectionBoxZap {
+	background-color: #151F6D; /* Cor de fundo azul escuro */
+	border-radius: 15px; /* Cantos arredondados */
+	margin: 100px;
+	padding: 20px; /* Espaçamento interno para evitar que o conteúdo toque as bordas */
+	color: white; /* Cor do texto para melhor contraste */
+  }
+
 h1, h2, h3, h4, h5, h6 {
 	font-family: "Open sans", Helvetica, Arial;
 }
@@ -49,13 +58,13 @@ element.style {
 .navbar-nav .dropdown-menu {
 	left: -5px;
 	font-size: 13px;
-	background-color: rgba(21, 76, 119, 0.95);
+	background-color:#171E6C;
 }
 .navbar-inverse .navbar-nav > li > a, .navbar-inverse .navbar-nav > .open ul > a {
 	color: rgba(255, 255, 255, 1);
 }
 .navbar-inverse {
-	background: #187BBD;
+	background: #171E6C;
 }
 .navbar-nav>li>a {
 	font-size: 18px;
@@ -70,8 +79,9 @@ background-image: linear-gradient(to bottom, #1ACEA9 0%, #149E82 100%);
 }
 /* Header */
 #head {
-	background: #181015 url( ../images/bg_header.jpg) no-repeat;
+	background: #181015 url( ../images/banner.webp) no-repeat;
 	background-size: cover;
+	background-position: center;
 	min-height: 520px;
 	text-align: center;
 	padding-top: 240px;
@@ -139,16 +149,16 @@ background-image: linear-gradient(to bottom, #1ACEA9 0%, #149E82 100%);
 	padding: 35px 0 40px;
 }
 .btn-action, .btn-primary {
-	color: #FFEFD7;
+	color: #FFFFFF;
 	background-image: -webkit-linear-gradient(top, #0ecfec 0%, #09bed9 100%);
-	background-image: linear-gradient(to bottom, #0ecfec 0%, #09bed9 100%);
+	background-image: linear-gradient(to bottom, #2d377c 0%, #151f6e 100%);;
  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0ecfec22', endColorstr='#09bed900', GradientType=0);
  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
 	background-repeat: repeat-x;
 	border: 0 none;
 }
 .btn-action:hover, .btn-primary:hover {
-	background: #04a0b7;
+	background: #374289;
 }
 .slideUp {
 	top: -100px;
@@ -195,7 +205,7 @@ background-image: linear-gradient(to bottom, #1ACEA9 0%, #149E82 100%);
 .h-body {
 }
 .jumbotron {
-	background-color: #00253D;
+	background-color: #151F6D;
 }
 .page-title {
 	margin-top: 20px;
@@ -580,7 +590,7 @@ nav#filter a.current {
 	bottom: -20px !important;
 }
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
-	border-color: #101010;
+	/* border-color: #101010; */
 	overflow: hidden;
 }
 .navbar-inverse .navbar-nav .open .dropdown-menu>li>a {
