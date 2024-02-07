@@ -11,10 +11,25 @@ Licence: Creative Commons Attribution 3.0** - http://creativecommons.org/license
 .sectionBoxZap {
 	background-color: #151F6D; /* Cor de fundo azul escuro */
 	border-radius: 15px; /* Cantos arredondados */
-	margin: 100px;
+	margin: 100px auto; /* Centraliza na horizontal e mantém 100px de margem no topo e embaixo */
 	padding: 20px; /* Espaçamento interno para evitar que o conteúdo toque as bordas */
 	color: white; /* Cor do texto para melhor contraste */
+	max-width: 850px; /* Largura máxima de 800px */
+	display: block; /* Altere para 'flex' se necessário para o layout interno */
+}
+
+
+  .sectionBoxZap .row {
+	display: flex;
+	flex-wrap: wrap; /* Permite que os itens da linha se ajustem conforme o espaço disponível */
   }
+  
+  .sectionBoxZap .btn {
+	white-space: nowrap; /* Previne o botão de quebrar em várias linhas */
+	margin: 0 auto; /* Centraliza o botão se a coluna for mais larga que o botão */
+  }
+  
+
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: "Open sans", Helvetica, Arial;
@@ -147,6 +162,7 @@ background-image: linear-gradient(to bottom, #1ACEA9 0%, #149E82 100%);
 }
 .sectionBox {
 	padding: 35px 0 40px;
+	overflow: hidden;
 }
 .btn-action, .btn-primary {
 	color: #FFFFFF;
@@ -198,7 +214,7 @@ background-image: linear-gradient(to bottom, #1ACEA9 0%, #149E82 100%);
 }
 .jumbotron p {
 	font-size: inherit;
-	color: #979797;
+	color: #FFFFFF;
 	font-size: 16px;
 	padding: 0px 10px;
 }

@@ -24,7 +24,7 @@ jQuery(document).ready(function ($) {
 //Set the carousel options
 	$('#quote-carousel').carousel({
 		pause: true,
-		interval: 4000,
+		interval: 4000
 	});
 // fancybox
     $(".fancybox").fancybox();
@@ -63,7 +63,7 @@ jQuery(document).ready(function ($) {
             });
             return false;
         });
-        $(window).smartresize(function () {
+        $(window).resize(function () {
             $container.isotope({
                 // update columnWidth to a percentage of container width
                 masonry: {
