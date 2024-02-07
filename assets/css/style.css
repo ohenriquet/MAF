@@ -16,6 +16,7 @@ Licence: Creative Commons Attribution 3.0** - http://creativecommons.org/license
 	color: white; /* Cor do texto para melhor contraste */
 	max-width: 850px; /* Largura máxima de 800px */
 	display: block; /* Altere para 'flex' se necessário para o layout interno */
+	margin-top: 50px;
 }
 
 
@@ -45,6 +46,7 @@ blockquote {
 	font-family: Georgia;
 	color: #999;
 	margin: 30px 0 30px;
+	/* height: 235px; */
 }
 label {
 	color: #777;
@@ -221,7 +223,7 @@ background-image: linear-gradient(to bottom, #1ACEA9 0%, #149E82 100%);
 .h-body {
 }
 .jumbotron {
-	background-color: #151F6D;
+	background-color: #0f154b;
 }
 .page-title {
 	margin-top: 20px;
@@ -302,7 +304,7 @@ img.pull-left {
 	color: #fff;
 }
 .footer1 .panel {
-	margin-bottom: 30px;
+	/* margin-bottom: 30px; */
 }
 .footer1 .panel-title {
 	font-size: 17px;
