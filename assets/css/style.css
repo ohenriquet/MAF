@@ -158,6 +158,10 @@ background-image: linear-gradient(to bottom, #1ACEA9 0%, #149E82 100%);
 	border-radius: 0px;
 	-webkit-box-shadow: none;
 	box-shadow: none;
+	display: flex; /* Define o painel como um container flex */
+  flex-direction: column; /* Organiza os filhos do flex container em colunas */
+  align-items: center; /* Centraliza horizontalmente o conteúdo flex */
+  justify-content: center; /* Centraliza verticalmente o conteúdo flex */
 }
 .panel-body {
 	padding: 0px;
@@ -228,7 +232,7 @@ background-image: linear-gradient(to bottom, #1ACEA9 0%, #149E82 100%);
 .page-title {
 	margin-top: 20px;
 	font-weight: 300;
-	color: #4295FF;
+	color: #171e6c;
 }
 .text-muted {
 	color: #888;
@@ -572,6 +576,10 @@ nav#filter a.current {
 	height: 8px;
 	border-radius:0px !important;
 }
+.logo {
+	max-width: 19.13vw;
+	width: 175px;
+}
 /**
   MEDIA QUERIES
 */
@@ -627,4 +635,64 @@ nav#filter a.current {
 	width: 20px;
 	height: 20px;
 }
+}
+.herotxt h2 {
+	font-size: 2em;
+}
+.herotxt p {
+	font-size: 1.25em;
+}
+@media (max-width:480px) {
+	.logo {
+		max-width: 175px;
+	}
+}
+@media (max-width:991px){
+	.footer1 .container .row .panel {
+		text-align: center; /* Centraliza o conteúdo no mobile */
+	  }
+	  
+	  .footer1 .container .row .panel .panel-body {
+		padding: 15px; /* Adiciona um pouco de espaço */
+	  }
+	
+	  .footer1 .navbar-brand img {
+		width: 100%; /* Torna a imagem responsiva */
+		height: auto; /* Mantém a proporção da imagem */
+		max-width: 175px; /* Limita o tamanho máximo da imagem */
+	  }
+	
+	  .footer1 .panel.contact ul {
+		text-align: center; /* Centraliza a lista de links no mobile */
+		padding: 0; /* Remove o padding padrão da lista */
+	  }
+	
+	  .footer1 .panel.contact ul li {
+		display: block; /* Coloca cada link em sua própria linha */
+		margin-bottom: 5px; /* Adiciona espaço entre os links */
+	  }
+	
+	  .footer1 .panel h3 {
+		font-size: 1em; /* Ajusta o tamanho da fonte para títulos no mobile */
+	  }
+	  
+	  .footer1 .follow-me-icons {
+		display: flex; /* Utiliza flexbox para centralizar o ícone */
+		justify-content: center; /* Centraliza horizontalmente */
+		align-items: center; /* Centraliza verticalmente */
+	  }
+	  
+	  .footer1 .panel-body {
+		display: flex; /* Utiliza flexbox para centralizar o ícone */
+		justify-content: center; /* Centraliza horizontalmente */
+		align-items: center; /* Centraliza verticalmente */
+	  }
+	  
+	  .footer1 .follow-me-icons a {
+		font-size: 24px; /* Ajusta o tamanho do ícone */
+	  }
+	  
+	  .footer1 p {
+		text-align: center; /* Centraliza o texto de copyright no mobile */
+	  }
 }
