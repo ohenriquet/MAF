@@ -14,11 +14,11 @@ Features :
 
 Credits :
 -------
-=> Design and developed: "WebThemez"  http://webthemez.com
-=> Photos used in template: **Unsplash** - http://unsplash.com
-=> For more free web themes: http://webthemez.com
-=> Framework : http://getbootstrap.com
+=> Design and developed: "WebThemez"  https://webthemez.com
+=> Photos used in template: **Unsplash** - https://unsplash.com
+=> For more free web themes: https://webthemez.com
+=> Framework : https://getbootstrap.com
 
 License :
 -------
-**Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
+**Creative Commons Attribution 3.0** - https://creativecommons.org/licenses/by/3.0/
