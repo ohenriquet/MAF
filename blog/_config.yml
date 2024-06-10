@@ -1,0 +1,19 @@
+name: BLOG MAF CONSULTORIA E TREINAMENTO
+description: Artigos e Ebooks
+meta_description: "Blog da MAF Consultoria e Treinamento com os artigos e ebooks gratuitos."
+
+markdown: kramdown
+highlighter: rouge
+logo: false
+paginate: 15
+baseurl: /blog
+domain_name: "https://mafconsultoriaetreinamento.com"
+google_analytics: "UA-XXXXXXXX-X"
+plugins: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url: ""
+author: "Antonio Martiningo"
+
+# Disqus config
+disqus-shortname: ""
