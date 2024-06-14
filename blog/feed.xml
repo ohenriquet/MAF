@@ -3,10 +3,10 @@
   <channel>
     <title></title>
     <description>Artigos e Ebooks</description>
-    <link>/blog/</link>
-    <atom:link href="/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Jun 2024 14:48:33 -0300</pubDate>
-    <lastBuildDate>Mon, 10 Jun 2024 14:48:33 -0300</lastBuildDate>
+    <link>http://localhost:4000/blog/</link>
+    <atom:link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 14 Jun 2024 12:13:24 -0300</pubDate>
+    <lastBuildDate>Fri, 14 Jun 2024 12:13:24 -0300</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
@@ -45,8 +45,8 @@ As empresas que adotam boas práticas de governança corporativa geralmente segu
 &lt;p&gt;Aprimore a gestão da sua empresa e impulsione seu crescimento sustentável com o nosso ebook “Como a Governança Corporativa Contribui para o Crescimento Sustentável das Empresas”. Baixe agora mesmo para obter insights valiosos e estratégias práticas que podem impulsionar o sucesso do seu negócio. Não deixe essa oportunidade passar! Clique no link abaixo para garantir o seu acesso gratuito hoje mesmo! &lt;a href=&quot;https://tally.so/r/wMAGWp&quot;&gt;https://tally.so/r/wMAGWp&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 06 Jun 2024 07:18:00 -0300</pubDate>
-        <link>/blog/governanca-corporativa/2024/06/06/entenda-o-papel-da-governanca-corporativa-na-mitigacao-de-riscos.html</link>
-        <guid isPermaLink="true">/blog/governanca-corporativa/2024/06/06/entenda-o-papel-da-governanca-corporativa-na-mitigacao-de-riscos.html</guid>
+        <link>http://localhost:4000/blog/governanca-corporativa/2024/06/06/entenda-o-papel-da-governanca-corporativa-na-mitigacao-de-riscos.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/governanca-corporativa/2024/06/06/entenda-o-papel-da-governanca-corporativa-na-mitigacao-de-riscos.html</guid>
         
         
         <category>Governanca-Corporativa</category>
@@ -83,8 +83,8 @@ As empresas que adotam boas práticas de governança corporativa geralmente segu
 Aprimore a gestão da sua empresa e impulsione seu crescimento sustentável com o nosso ebook “Como a Governança Corporativa Contribui para o Crescimento Sustentável das Empresas”. Baixe agora mesmo para obter insights valiosos e estratégias práticas que podem impulsionar o sucesso do seu negócio. Não deixe essa oportunidade passar! Clique no link abaixo para garantir o seu acesso gratuito hoje mesmo! &lt;a href=&quot;https://tally.so/r/wMAGWp&quot;&gt;https://tally.so/r/wMAGWp&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 30 May 2024 07:18:00 -0300</pubDate>
-        <link>/blog/governanca-corporativa/2024/05/30/Entenda-o-Papel-da-Governan%C3%A7a-Corporativa-na-Mitiga%C3%A7%C3%A3o-de-Riscos.html</link>
-        <guid isPermaLink="true">/blog/governanca-corporativa/2024/05/30/Entenda-o-Papel-da-Governan%C3%A7a-Corporativa-na-Mitiga%C3%A7%C3%A3o-de-Riscos.html</guid>
+        <link>http://localhost:4000/blog/governanca-corporativa/2024/05/30/Entenda-o-Papel-da-Governan%C3%A7a-Corporativa-na-Mitiga%C3%A7%C3%A3o-de-Riscos.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/governanca-corporativa/2024/05/30/Entenda-o-Papel-da-Governan%C3%A7a-Corporativa-na-Mitiga%C3%A7%C3%A3o-de-Riscos.html</guid>
         
         
         <category>governanca-corporativa</category>
@@ -156,8 +156,8 @@ Aprimore a gestão da sua empresa e impulsione seu crescimento sustentável com 
 &lt;p&gt;Descubra como a Governança Corporativa impulsiona o crescimento sustentável das empresas com nosso ebook exclusivo. Baixe agora para obter insights valiosos e estratégias práticas que podem transformar o futuro do seu negócio. Não perca esta oportunidade de elevar a governança corporativa da sua empresa e alcançar novos patamares de crescimento. Clique no link abaixo para fazer o download gratuito e comece a transformação hoje mesmo! &lt;a href=&quot;https://tally.so/r/wMAGWp&quot;&gt;https://tally.so/r/wMAGWp&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 22 May 2024 07:18:00 -0300</pubDate>
-        <link>/blog/governanca-corporativa/2024/05/22/Por-Dentro-da-Consultoria-de-Governan%C3%A7a-Corporativa-Mitos-vs-Realidade.html</link>
-        <guid isPermaLink="true">/blog/governanca-corporativa/2024/05/22/Por-Dentro-da-Consultoria-de-Governan%C3%A7a-Corporativa-Mitos-vs-Realidade.html</guid>
+        <link>http://localhost:4000/blog/governanca-corporativa/2024/05/22/Por-Dentro-da-Consultoria-de-Governan%C3%A7a-Corporativa-Mitos-vs-Realidade.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/governanca-corporativa/2024/05/22/Por-Dentro-da-Consultoria-de-Governan%C3%A7a-Corporativa-Mitos-vs-Realidade.html</guid>
         
         
         <category>governanca-corporativa</category>
@@ -215,8 +215,8 @@ Aprimore a gestão da sua empresa e impulsione seu crescimento sustentável com 
 &lt;p&gt;Não deixe passar a chance de aprimorar a governança corporativa da sua empresa e impulsionar seu crescimento sustentável. Baixe agora mesmo nosso ebook “Como a Governança Corporativa Contribui para o Crescimento Sustentável das Empresas” e tenha acesso a insights valiosos e estratégias práticas. Clique no link para fazer o download gratuito e dê o próximo passo rumo ao sucesso do seu negócio! &lt;a href=&quot;https://tally.so/r/wMAGWp&quot;&gt;https://tally.so/r/wMAGWp&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 16 May 2024 07:18:00 -0300</pubDate>
-        <link>/blog/governanca-corporativa/2024/05/16/Os-Benef%C3%ADcios-Ocultos-de-Investir-em-Consultoria-de-Governan%C3%A7a-Corporativa.html</link>
-        <guid isPermaLink="true">/blog/governanca-corporativa/2024/05/16/Os-Benef%C3%ADcios-Ocultos-de-Investir-em-Consultoria-de-Governan%C3%A7a-Corporativa.html</guid>
+        <link>http://localhost:4000/blog/governanca-corporativa/2024/05/16/Os-Benef%C3%ADcios-Ocultos-de-Investir-em-Consultoria-de-Governan%C3%A7a-Corporativa.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/governanca-corporativa/2024/05/16/Os-Benef%C3%ADcios-Ocultos-de-Investir-em-Consultoria-de-Governan%C3%A7a-Corporativa.html</guid>
         
         
         <category>governanca-corporativa</category>
@@ -256,8 +256,8 @@ Aprimore a gestão da sua empresa e impulsione seu crescimento sustentável com 
 &lt;p&gt;Descubra os segredos por trás do sucesso sustentável das empresas com o nosso ebook exclusivo “Como a Governança Corporativa Contribui para o Crescimento Sustentável das Empresas”. Baixe agora mesmo para obter insights valiosos e estratégias práticas que podem transformar o futuro do seu negócio. Não perca esta oportunidade de elevar a governança corporativa da sua empresa e alcançar novos patamares de crescimento. Clique no link abaixo para fazer o download gratuito e comece a transformação hoje mesmo! &lt;a href=&quot;https://tally.so/r/wMAGWp&quot;&gt;https://tally.so/r/wMAGWp&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 14 May 2024 07:18:00 -0300</pubDate>
-        <link>/blog/governanca-corporativa/2024/05/14/O-Guia-Definitivo-para-Escolher-a-Melhor-Consultoria-de-Governan%C3%A7a-Corporativa.html</link>
-        <guid isPermaLink="true">/blog/governanca-corporativa/2024/05/14/O-Guia-Definitivo-para-Escolher-a-Melhor-Consultoria-de-Governan%C3%A7a-Corporativa.html</guid>
+        <link>http://localhost:4000/blog/governanca-corporativa/2024/05/14/O-Guia-Definitivo-para-Escolher-a-Melhor-Consultoria-de-Governan%C3%A7a-Corporativa.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/governanca-corporativa/2024/05/14/O-Guia-Definitivo-para-Escolher-a-Melhor-Consultoria-de-Governan%C3%A7a-Corporativa.html</guid>
         
         
         <category>governanca-corporativa</category>
@@ -301,8 +301,8 @@ Aprimore a gestão da sua empresa e impulsione seu crescimento sustentável com 
 &lt;p&gt;Não deixe sua empresa para trás. &lt;a href=&quot;https://mafconsultoriaetreinamento.com/contato&quot;&gt;Entre em contato conosco hoje mesmo&lt;/a&gt; e descubra como a MAF Consultoria pode ajudá-lo a otimizar seus processos de governança corporativa, gestão de riscos e auditoria interna.&lt;/p&gt;
 </description>
         <pubDate>Fri, 03 May 2024 07:18:00 -0300</pubDate>
-        <link>/blog/governanca-corporativa/2024/05/03/Dicas-Essenciais-para-Implementar-Governan%C3%A7a-Corporativa-com-Sucesso.html</link>
-        <guid isPermaLink="true">/blog/governanca-corporativa/2024/05/03/Dicas-Essenciais-para-Implementar-Governan%C3%A7a-Corporativa-com-Sucesso.html</guid>
+        <link>http://localhost:4000/blog/governanca-corporativa/2024/05/03/Dicas-Essenciais-para-Implementar-Governan%C3%A7a-Corporativa-com-Sucesso.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/governanca-corporativa/2024/05/03/Dicas-Essenciais-para-Implementar-Governan%C3%A7a-Corporativa-com-Sucesso.html</guid>
         
         
         <category>governanca-corporativa</category>
@@ -322,8 +322,8 @@ Aprimore a gestão da sua empresa e impulsione seu crescimento sustentável com 
 &lt;p&gt;Quer aprofundar seu conhecimento sobre como o Modelo das Três Linhas pode transformar a conformidade regulatória na sua organização? Inscreva-se no nosso curso gratuito e explore estratégias práticas para integrar governança, gestão de riscos e conformidade com os objetivos de negócio. Este curso é indispensável para profissionais que buscam excelência em conformidade regulatória. &lt;a href=&quot;https://tally.so/r/mJ6W1R&quot;&gt;https://tally.so/r/mJ6W1R&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 29 Apr 2024 07:18:00 -0300</pubDate>
-        <link>/blog/governanca-corporativa/2024/04/29/Como-o-Modelo-das-Tr%C3%AAs-Linhas-Facilita-a-Conformidade-Regulat%C3%B3ria.html</link>
-        <guid isPermaLink="true">/blog/governanca-corporativa/2024/04/29/Como-o-Modelo-das-Tr%C3%AAs-Linhas-Facilita-a-Conformidade-Regulat%C3%B3ria.html</guid>
+        <link>http://localhost:4000/blog/governanca-corporativa/2024/04/29/Como-o-Modelo-das-Tr%C3%AAs-Linhas-Facilita-a-Conformidade-Regulat%C3%B3ria.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/governanca-corporativa/2024/04/29/Como-o-Modelo-das-Tr%C3%AAs-Linhas-Facilita-a-Conformidade-Regulat%C3%B3ria.html</guid>
         
         
         <category>governanca-corporativa</category>
@@ -373,8 +373,8 @@ Aprimore a gestão da sua empresa e impulsione seu crescimento sustentável com 
 &lt;p&gt;Para profissionais interessados em aprofundar seus conhecimentos sobre o Modelo das Três Linhas e sua aplicação prática na gestão de riscos, convidamos você a participar do nosso curso gratuito, acontecendo no mês de abril. Este é o momento de fortalecer suas competências e preparar sua organização para o futuro. Inscreva-se agora!&lt;/p&gt;
 </description>
         <pubDate>Wed, 24 Apr 2024 07:18:00 -0300</pubDate>
-        <link>/blog/governanca-corporativa/2024/04/24/Gest%C3%A3o-de-Riscos-em-Tempos-de-Incerteza-O-Papel-das-Tr%C3%AAs-Linhas.html</link>
-        <guid isPermaLink="true">/blog/governanca-corporativa/2024/04/24/Gest%C3%A3o-de-Riscos-em-Tempos-de-Incerteza-O-Papel-das-Tr%C3%AAs-Linhas.html</guid>
+        <link>http://localhost:4000/blog/governanca-corporativa/2024/04/24/Gest%C3%A3o-de-Riscos-em-Tempos-de-Incerteza-O-Papel-das-Tr%C3%AAs-Linhas.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/governanca-corporativa/2024/04/24/Gest%C3%A3o-de-Riscos-em-Tempos-de-Incerteza-O-Papel-das-Tr%C3%AAs-Linhas.html</guid>
         
         
         <category>governanca-corporativa</category>
@@ -412,8 +412,8 @@ Aprimore a gestão da sua empresa e impulsione seu crescimento sustentável com 
 &lt;p&gt;Não perca a oportunidade de aprimorar suas habilidades em governança corporativa com nosso curso gratuito sobre o Modelo das Três Linhas, acontecendo nos dias 8, 9 e 10 de abril. Este curso é imperdível para líderes e profissionais que buscam integrar eficazmente a governança, a gestão de riscos e os objetivos de negócio. Inscreva-se já e transforme a maneira como sua organização alcança seus objetivos estratégicos.&lt;/p&gt;
 </description>
         <pubDate>Wed, 17 Apr 2024 07:18:00 -0300</pubDate>
-        <link>/blog/governanca-corporativa/2024/04/17/Alinhamento-Estrat%C3%A9gico-Integrando-o-Modelo-das-Tr%C3%AAs-Linhas-com-os-Objetivos-de-Neg%C3%B3cio.html</link>
-        <guid isPermaLink="true">/blog/governanca-corporativa/2024/04/17/Alinhamento-Estrat%C3%A9gico-Integrando-o-Modelo-das-Tr%C3%AAs-Linhas-com-os-Objetivos-de-Neg%C3%B3cio.html</guid>
+        <link>http://localhost:4000/blog/governanca-corporativa/2024/04/17/Alinhamento-Estrat%C3%A9gico-Integrando-o-Modelo-das-Tr%C3%AAs-Linhas-com-os-Objetivos-de-Neg%C3%B3cio.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/governanca-corporativa/2024/04/17/Alinhamento-Estrat%C3%A9gico-Integrando-o-Modelo-das-Tr%C3%AAs-Linhas-com-os-Objetivos-de-Neg%C3%B3cio.html</guid>
         
         
         <category>governanca-corporativa</category>
@@ -451,8 +451,8 @@ Aprimore a gestão da sua empresa e impulsione seu crescimento sustentável com 
 &lt;p&gt;Estamos lançando um curso gratuito sobre o Modelo das Três Linhas, que ocorrerá nos dias 8, 9 e 10 de abril. Este curso é essencial para profissionais que buscam aprimorar suas habilidades em governança corporativa e gestão de riscos. Inscreva-se agora e descubra como implementar esta abordagem revolucionária na sua organização. &lt;a href=&quot;https://tally.so/r/mJ6W1R&quot;&gt;https://tally.so/r/mJ6W1R&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 10 Apr 2024 07:18:00 -0300</pubDate>
-        <link>/blog/governanca-corporativa/2024/04/10/O-que-e-o-modelo-das-tres-linhas-e-por-que-e-revolucion%C3%A1rio-para-a-governan%C3%A7a-corporativa.html</link>
-        <guid isPermaLink="true">/blog/governanca-corporativa/2024/04/10/O-que-e-o-modelo-das-tres-linhas-e-por-que-e-revolucion%C3%A1rio-para-a-governan%C3%A7a-corporativa.html</guid>
+        <link>http://localhost:4000/blog/governanca-corporativa/2024/04/10/O-que-e-o-modelo-das-tres-linhas-e-por-que-e-revolucion%C3%A1rio-para-a-governan%C3%A7a-corporativa.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/governanca-corporativa/2024/04/10/O-que-e-o-modelo-das-tres-linhas-e-por-que-e-revolucion%C3%A1rio-para-a-governan%C3%A7a-corporativa.html</guid>
         
         
         <category>governanca-corporativa</category>
