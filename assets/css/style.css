@@ -44,12 +44,12 @@ h1, .h1, h2, .h2, h3, .h3 {
 blockquote {
 	font-style: italic;
 	font-family: Georgia;
-	color: #999;
+	color: #595959;
 	margin: 30px 0 30px;
 	/* height: 235px; */
 }
 label {
-	color: #777;
+	color: #595959;
 }
 .herotxt h2 {
 	font-size: 35px;
@@ -235,7 +235,7 @@ background-image: linear-gradient(to bottom, #1ACEA9 0%, #149E82 100%);
 	color: #171e6c;
 }
 .text-muted {
-	color: #888;
+	color: #595959;
 }
 .breadcrumb {
 	background: none;
@@ -299,10 +299,10 @@ img.pull-left {
 	background: #0E1A2E;
 	padding: 30px 0 0 0;
 	font-size: 12px;
-	color: #999;
+	color: #A6A6A6;
 }
 .footer1 a {
-	color: #ccc;
+	color: #FFF;
 }
 .footer1 a:hover {
 	color: #fff;
