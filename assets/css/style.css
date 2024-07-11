@@ -522,9 +522,6 @@ nav#filter a.current {
 	top: 0;
 	color: rgba(220, 220, 220);
 }
-.fancybox-overlay {
-	background: rgba(0, 0, 0, 0.64);
-}
 .portfolio-item:hover .portfolio-desc {
 	padding-top: 20%;
 	height: 100%;

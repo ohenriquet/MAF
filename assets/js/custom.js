@@ -26,8 +26,6 @@ jQuery(document).ready(function ($) {
 		pause: true,
 		interval: 14000
 	});
-// fancybox
-    $(".fancybox").fancybox();
 //isotope
     if ($('.isotopeWrapper').length) {
         var $container = $('.isotopeWrapper');
