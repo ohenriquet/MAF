@@ -1,6 +1,3 @@
 [submodule "kasper"]
   path = kasper
   url = https://github.com/ohenriquet/kasper.git
-[submodule "kasper2"]
-	path = kasper2
-	url = https://github.com/ohenriquet/MAF.git
