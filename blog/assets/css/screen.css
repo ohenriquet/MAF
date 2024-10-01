@@ -1797,7 +1797,7 @@ body:not(.post-template) .post-title {
 
 .ebook-button {
     display: inline-block;
-    background-color: #006699; /* Cor primária da paleta (substitua pelo tom adequado) */
+    background-color: #30399b; /* Cor primária da paleta (substitua pelo tom adequado) */
     color: #fff;
     text-transform: uppercase;
     text-decoration: none;
@@ -1810,7 +1810,7 @@ body:not(.post-template) .post-title {
 }
 
 .ebook-button:hover {
-    background-color: #004466; /* Tom mais escuro da cor primária para o efeito hover */
+    background-color: #3945ba; /* Tom mais escuro da cor primária para o efeito hover */
     transform: scale(1.05);
 }
 
